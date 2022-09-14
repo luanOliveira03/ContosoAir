@@ -1,6 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-
+[![Build Status](https://dev.azure.com/ellianesantiago/ProjetoPizzaria/_apis/build/status/luanOliveira03.ContosoAir%20(2)?branchName=master)](https://dev.azure.com/ellianesantiago/ProjetoPizzaria/_build/latest?definitionId=23&branchName=master)
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
